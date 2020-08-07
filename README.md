@@ -1,2 +1,1 @@
-# Python-Practice
-Python Practice - Data Mining Course 
+### Data Mining Course 
